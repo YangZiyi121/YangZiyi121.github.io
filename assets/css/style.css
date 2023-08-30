@@ -1552,7 +1552,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * #EDUCATION
+   * #resume
    */
 
   .timeline-list { margin-left: 65px; }
@@ -1568,21 +1568,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .skills-item:not(:last-child) { margin-bottom: 25px; }
 
 
-  /**
-   * #INTERNSHIP
-   */
-
-   .timeline-list { margin-left: 65px; }
-
-   .timeline-item:not(:last-child)::before { left: -40px; }
- 
-   .timeline-item::after {
-     height: 8px;
-     width: 8px;
-     left: -43px;
-   }
- 
-   .skills-item:not(:last-child) { margin-bottom: 25px; }
 
   /**
    * #PORTFOLIO, BLOG
