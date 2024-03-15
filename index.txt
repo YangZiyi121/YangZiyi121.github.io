@@ -23,9 +23,8 @@ Sacramento, California, USA
 # navbar
 
 About
-Education
-Internship
-Publication
+Experience
+Awards
 
 # about
 
@@ -86,9 +85,9 @@ alt = client logo
 
 
 
-# education
+# experience
 
-Education
+Experience
 
 Education
 
@@ -128,38 +127,6 @@ Branding
 90%
 WordPress
 50%
-
-# internship
-
-Internship
-
-Internship
-
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
-
-Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 # awards
 Portfolio
