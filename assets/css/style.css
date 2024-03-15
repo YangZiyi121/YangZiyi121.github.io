@@ -206,6 +206,8 @@ article {
   z-index: -1;
 }
 
+
+
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 article { display: none; }
@@ -1869,8 +1871,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .social-list { justify-content: center; }
-
-
 
   /**
 	 * RESUME
