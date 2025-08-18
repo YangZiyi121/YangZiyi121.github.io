@@ -1879,3 +1879,47 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+/* Publications banner layout next to awards */
+@media (min-width: 1024px) {
+  .awards .awards-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    align-items: start;
+  }
+}
+
+.publications-banner {
+  padding: 20px;
+}
+
+.publications-list {
+  margin-top: 15px;
+  display: grid;
+  grid-auto-rows: max-content;
+  gap: 16px;
+}
+
+.publication-item {}
+
+.publication-title { color: var(--white-2); }
+
+.publication-link {
+  color: var(--light-gray);
+}
+
+.publication-link:hover { color: var(--orange-yellow-crayola); }
+
+.publication-venue {
+  color: var(--vegas-gold);
+  font-size: var(--fs-7);
+  margin-top: 4px;
+}
+
+.publication-authors {
+  color: var(--light-gray-70);
+  font-size: var(--fs-7);
+  margin-top: 2px;
+}
