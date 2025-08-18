@@ -833,6 +833,22 @@ main {
   line-height: 1.6;
 }
 
+/* Title + link row for publications */
+.timeline-item-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.timeline-item-header .timeline-item-title { margin-bottom: 0; }
+
+.publication-link {
+  color: var(--orange-yellow-crayola);
+  font-weight: var(--fw-500);
+  white-space: nowrap;
+}
+
 
 /**
  * skills 
@@ -1907,10 +1923,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 .publication-title { color: var(--white-2); }
 
 .publication-link {
-  color: var(--light-gray);
+  color: #3b82f6;
 }
 
-.publication-link:hover { color: var(--orange-yellow-crayola); }
+.publication-link:hover { color: #60a5fa; }
 
 .publication-venue {
   color: var(--vegas-gold);
