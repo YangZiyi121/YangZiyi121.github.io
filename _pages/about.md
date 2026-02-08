@@ -15,26 +15,6 @@ My research interests include networked accelerators, in-network computing, FPGA
 
 ---
 
-## Education {#education}
-
-**Ph.D. in Computer Science**  
-King Abdullah University of Science and Technology (KAUST)  
-*Jan 2023 - Present | Thuwal, Saudi Arabia*
-
-**Master of Science in Computer Science**  
-King Abdullah University of Science and Technology (KAUST)  
-*Aug 2021 - Dec 2022 | Thuwal, Saudi Arabia*
-
-**Bachelor's Degree in Telecommunications Engineering**  
-Queen Mary University of London (QMUL)  
-*Sep 2017 - Jun 2021 | First Class Honours*
-
-**Bachelor's Degree in Telecommunications Engineering**  
-Beijing University of Posts and Telecommunications (BUPT)  
-*Sep 2017 - Jun 2021 | GPA 90.05/100, Rank 10/323 | Beijing, China*
-
----
-
 ## Publications {#publications}
 
 <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #1565c0;">arXiv</span> **OffRAC: Offloading Through Remote Accelerator Calls** [[PDF]](https://www.arxiv.org/abs/2504.04404)  
@@ -52,6 +32,26 @@ Ziyi Yang, Suhaib Fahmy
 
 <span style="background-color: #fff3e0; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #e65100;">NSDI'25</span> **Bridging Software and Hardware: Stateless Remote Accelerator Calls** [[Poster]](https://github.com/chenIshi/doc-pub-hub/blob/main/poster/OffRAC-poster-nsdi25.pdf)  
 Ziyi Yang, Krishnan B. Iyer, Yixi Chen, Ran Shu, Zsolt István, Marco Canini, Suhaib A. Fahmy
+
+---
+
+## Education {#education}
+
+**Ph.D. in Computer Science**  
+King Abdullah University of Science and Technology (KAUST)  
+*Jan 2023 - Present | Thuwal, Saudi Arabia*
+
+**Master of Science in Computer Science**  
+King Abdullah University of Science and Technology (KAUST)  
+*Aug 2021 - Dec 2022 | Thuwal, Saudi Arabia*
+
+**Bachelor's Degree in Telecommunications Engineering**  
+Queen Mary University of London (QMUL)  
+*Sep 2017 - Jun 2021 | First Class Honours*
+
+**Bachelor's Degree in Telecommunications Engineering**  
+Beijing University of Posts and Telecommunications (BUPT)  
+*Sep 2017 - Jun 2021 | GPA 90.05/100, Rank 10/323 | Beijing, China*
 
 ---
 
