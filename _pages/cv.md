@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, King Abdullah University of Science and Technology (KAUST), 2023 Jan - present
+* **Master of Science in Computer Science**, KAUST, Aug 2021 - Dec 2022
+* **Bachelor's Degree in Telecommunications Engineering**, Queen Mary University of London (QMUL), 2017 Sep - 2021 Jun
+  * First Class Honours
+* **Bachelor's Degree in Telecommunications Engineering**, Beijing University of Posts and Telecommunications (BUPT), 2017 Sep - 2021 Jun
+  * GPA 90.05/100, Rank 10/323
 
-Work experience
+Internship Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Microsoft Research Asia (MSRA)**, Beijing, China, Sep 2023 - Jan 2024
+  * Network Research Group
+  * Mentor: Dr. Ran Shu
+* **TU Darmstadt**, Darmstadt, Germany, Jun 2022 - Aug 2022
+  * Work on network attached FPGA accelerator design
+  * Mentor: Prof. Zsolt Istvan
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Stars of Tomorrow Internship Award of Excellence**, Microsoft Research Asia, 2024
+* **Outstanding Graduates of Beijing**, 2021
+* **Second-class Merit Scholarship**, BUPT, 2017-2018, 2018-2019, 2019-2020
 
 Publications
 ======
@@ -58,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
