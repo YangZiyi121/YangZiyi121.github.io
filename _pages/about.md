@@ -17,10 +17,13 @@ My research interests include networked accelerators, in-network computing, FPGA
 
 ## Publications {#publications}
 
+<span style="background-color: #f3e5f5; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #6a1b9a;">IFIP Networking'26</span> **Application-Level Function Pipelines on In-Network FPGA Accelerators** [[PDF]](files/ifip-networking-2026.pdf)  
+Ziyi Yang, Zsolt István, Marco Canini, Suhaib A. Fahmy
+
 <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #1565c0;">arXiv</span> **OffRAC: Offloading Through Remote Accelerator Calls** [[PDF]](https://www.arxiv.org/abs/2504.04404)  
 Ziyi Yang, Krishnan B. Iyer, Yixi Chen, Ran Shu, Zsolt István, Marco Canini, Suhaib A. Fahmy
 
-<span style="background-color: #e8f5e9; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #2e7d32;">APSys'25</span> **FPGAs are the Hero In-Network Computing Needs** [[PDF]](https://mcanini.github.io/papers/fpgahero.apsys25.pdf)  
+<span style="background-color: #e8f5e9; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #2e7d32;">APSys'25</span> **FPGAs are the Hero In-Network Computing Needs** [[PDF]](files/Apsys_25.pdf)  
 Suhaib Fahmy, Ziyi Yang, Yixi Chen, Gustavo Alonso, Zsolt István, Marco Canini
 
 <span style="background-color: #fff3e0; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #e65100;">FPL'23 PhD Forum</span> **Exploring FPGA acceleration for distributed serverless computing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10296324)  
