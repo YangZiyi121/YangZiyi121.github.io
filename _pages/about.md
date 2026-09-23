@@ -19,7 +19,7 @@ My research interests include networked accelerators, in-network computing, FPGA
 <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #1565c0;">ATC'26</span> **fRAC: Remote Accelerator Calls on FPGAs** [[PDF]](https://www.arxiv.org/abs/2504.04404)  
 Ziyi Yang, Krishnan B. Iyer, Yixi Chen, Ran Shu, Zsolt István, Marco Canini, Suhaib A. Fahmy
 
-<span style="background-color: #f3e5f5; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #6a1b9a;">IFIP Networking'26</span> **Application-Level Function Pipelines on In-Network FPGA Accelerators** [[PDF]](files/2026-ifipnet-yang.pdf)  
+<span style="background-color: #f3e5f5; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #6a1b9a;">Networking'26</span> **Application-Level Function Pipelines on In-Network FPGA Accelerators** [[PDF]](files/2026-ifipnet-yang.pdf)  
 Ziyi Yang, Zsolt István, Marco Canini, Suhaib A. Fahmy
 
 <span style="background-color: #e8f5e9; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: 600; color: #2e7d32;">APSys'25</span> **FPGAs are the Hero In-Network Computing Needs** [[PDF]](files/Apsys_25.pdf)  
