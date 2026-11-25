@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia.
+I am currently a Ph.D. candidate at King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia.
 
 I am working with [Prof. Suhaib Fahmy](https://www.kaust.edu.sa/en/study/faculty/suhaib-fahmy) in the [Accelerated Connected Computing Lab (ACCL)](https://accl.kaust.edu.sa/).
 
